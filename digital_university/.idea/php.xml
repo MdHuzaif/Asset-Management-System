@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="1ed8f0e3-2b25-469b-bd7d-461752b4a5b0" name="PHP" home="" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+</project>

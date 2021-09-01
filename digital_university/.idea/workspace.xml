@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf87b780-9c7b-45f1-926c-0aad88beb95e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1QWAmS2JxblGISNwAc2MRLCZ9Pq" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ASUS\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf87b780-9c7b-45f1-926c-0aad88beb95e" name="Default Changelist" comment="" />
+      <created>1567876136606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567876136606</updated>
+      <workItem from="1567876139439" duration="219000" />
+      <workItem from="1567876573047" duration="10000" />
+      <workItem from="1567933102493" duration="2010000" />
+      <workItem from="1567935616798" duration="1382000" />
+      <workItem from="1567998591889" duration="1196000" />
+      <workItem from="1568128840333" duration="863000" />
+      <workItem from="1568151804302" duration="271000" />
+      <workItem from="1568153014687" duration="225000" />
+      <workItem from="1568310859959" duration="1277000" />
+      <workItem from="1568618588766" duration="3083000" />
+      <workItem from="1568654115265" duration="596000" />
+      <workItem from="1569059512436" duration="695000" />
+      <workItem from="1569426215775" duration="2161000" />
+      <workItem from="1569430354670" duration="1898000" />
+      <workItem from="1569564283082" duration="1904000" />
+      <workItem from="1569830104113" duration="1429000" />
+      <workItem from="1569898763098" duration="1206000" />
+      <workItem from="1569992777040" duration="13568000" />
+      <workItem from="1570026712407" duration="9307000" />
+      <workItem from="1570075229920" duration="1149000" />
+      <workItem from="1570094201710" duration="436000" />
+      <workItem from="1571061712139" duration="764000" />
+      <workItem from="1576083237035" duration="4617000" />
+      <workItem from="1576087974287" duration="4406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
